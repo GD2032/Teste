@@ -1,7 +1,4 @@
 rehloc
 atrop
-<<<<<<< HEAD
-=======
-ALADIN
-loliDeDias
->>>>>>> 069f54f1a0a2a78f0bed6079095f350efaf69aa1
+loliDeFelipe*
+
